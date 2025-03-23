@@ -1,6 +1,6 @@
 # 🚀 Interactive Landing Page
 
-This project is a highly interactive landing page built using GSAP, Locomotive Scroll, and Shery.js, designed for smooth scrolling, stunning animations, and engaging user interactions.
+This project is an immersive and highly interactive landing page built using GSAP, Locomotive Scroll, and Shery.js. It leverages smooth scrolling, dynamic animations, and engaging user interactions to create a seamless and visually captivating experience.
 
 ![HomeSS](Assets/Imgs/heropage.png)
 
